@@ -3,7 +3,7 @@ Hi, I'm Luis Falla! 👋
 </h1>
 <p align="center">
 	<a href="https://github.com/fernandofalla">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Graduate;Backend+Developer+in+Training;Mobile+Development+%7C+Flutter;DevOps+Basics+%7C+Docker+%7C+CI%2FCD;Always+learning+new+things&center=true&width=480&height=45">		
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Mobile+Development+%7C+Flutter;DevOps+Basics+%7C+Docker+%7C+CI%2FCD;Always+learning+new+things&center=true&width=480&height=45">		
 	</a>
 </p>
 
