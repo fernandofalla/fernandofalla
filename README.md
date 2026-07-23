@@ -8,9 +8,9 @@ Hi, I'm Luis Falla! 👋
 </p>
 <hr>
 <pre>
-🎓 Systems Engineering graduate (USAC Guatemala)
+🎓 Systems Engineering (USAC Guatemala)
 💻 Backend development and REST APIs
-📱 Mobile development with Flutter
+📱 Mobile development with Flutter (Basic)
 🗄️ Relational and non-relational databases
 🚀 Basic DevOps: Docker and CI/CD pipelines
 🌐 Frontend basics: HTML, CSS, JavaScript and React
@@ -27,7 +27,8 @@ Hi, I'm Luis Falla! 👋
 
 ### 👨‍💻 Programming Languages
 <p>
-    <a href="https://github.com/fernandofalla"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/fernandofalla"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
+	<a href="https://github.com/fernandofalla"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 	<a href="https://github.com/fernandofalla"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 	<a href="https://github.com/fernandofalla"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
 	<a href="https://github.com/fernandofalla"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"></a>
@@ -72,11 +73,13 @@ Hi, I'm Luis Falla! 👋
 	<a href="https://github.com/AlertHub/AlertHub"><img alt="AlertHub" src="https://img.shields.io/badge/AlertHub-Notifications%20system-339933?logo=node.js&logoColor=white"></a>
 	<a href="https://github.com/fernandofalla/OLC2_Proyecto1_201700700"><img alt="GoLight Interpreter" src="https://img.shields.io/badge/GoLight-Language%20interpreter-512BD4?logo=csharp&logoColor=white"></a>
 	<a href="https://github.com/fernandofalla/SO1_Fase1_201700700"><img alt="Visualizador de recursos" src="https://img.shields.io/badge/Visualizador%20de%20recursos-System%20monitor-00599C?logo=c&logoColor=white"></a>
+	<a href="https://gitlab.com/fernandofalla/OLC1_VD24_201700700"><img alt="Fictitious language interpreter" src="https://img.shields.io/badge/Language%20Interpreter-JFlex%20%2B%20CUP-ED8B00?logo=openjdk&logoColor=white"></a>
 </p>
 
 - 🎓 **[AdaptaMat](https://github.com/fernandofalla/StudyApp)** — Adaptive learning mobile app (thesis project) using the IRT Rasch model to adjust exercise difficulty and detect recurring error patterns. `Flutter` `Dart` `SQLite` `BLoC`
-- 🔔 **[AlertHub](https://github.com/fernandofalla/AlertHub)** — Centralized notification system (Email/SMS/Push) with Strategy, Factory and Observer patterns, real-time status updates via WebSockets. `Node.js` `Express` `React` `MySQL`
+- 🔔 **[AlertHub](https://github.com/AlertHub/AlertHub)** — Centralized notification system (Email/SMS/Push) with Strategy, Factory and Observer patterns, real-time status updates via WebSockets. `Node.js` `Express` `React` `MySQL`
 - 💻 **[GoLight — Interpreter](https://github.com/fernandofalla/OLC2_Proyecto1_201700700)** — Interpreter for a custom Go-like language, ANTLR4 grammar, Visitor pattern execution in C#/.NET. `C#` `.NET 9` `ANTLR4` `React`
+- ☕ **[Fictitious Language Interpreter](https://gitlab.com/fernandofalla/OLC1_VD24_201700700)** — Lexical and syntax analyzer for a custom language, built in Java using JFlex for lexical analysis and CUP for parsing, with a Swing desktop UI. `Java` `JFlex` `CUP` `Swing`
 - 📊 **[Visualizador de recursos](https://github.com/fernandofalla/SO1_Fase1_201700700)** — Real-time CPU/RAM monitor: kernel modules in C, Go collector agent, Node.js API, React dashboard, orchestrated with Docker and Kubernetes. `C` `Go` `Node.js` `MySQL` `React` `Docker` `Kubernetes`
 
 <br/>
