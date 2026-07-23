@@ -75,7 +75,7 @@ Hi, I'm Luis Falla! 👋
 </p>
 
 - 🎓 **[AdaptaMat](https://github.com/fernandofalla/StudyApp)** — Adaptive learning mobile app (thesis project) using the IRT Rasch model to adjust exercise difficulty and detect recurring error patterns. `Flutter` `Dart` `SQLite` `BLoC`
-- 🔔 **[AlertHub](https://github.com/AlertHub/AlertHub)** — Centralized notification system (Email/SMS/Push) with Strategy, Factory and Observer patterns, real-time status updates via WebSockets. `Node.js` `Express` `React` `MySQL`
+- 🔔 **[AlertHub](https://github.com/fernandofalla/AlertHub)** — Centralized notification system (Email/SMS/Push) with Strategy, Factory and Observer patterns, real-time status updates via WebSockets. `Node.js` `Express` `React` `MySQL`
 - 💻 **[GoLight — Interpreter](https://github.com/fernandofalla/OLC2_Proyecto1_201700700)** — Interpreter for a custom Go-like language, ANTLR4 grammar, Visitor pattern execution in C#/.NET. `C#` `.NET 9` `ANTLR4` `React`
 - 📊 **[Visualizador de recursos](https://github.com/fernandofalla/SO1_Fase1_201700700)** — Real-time CPU/RAM monitor: kernel modules in C, Go collector agent, Node.js API, React dashboard, orchestrated with Docker and Kubernetes. `C` `Go` `Node.js` `MySQL` `React` `Docker` `Kubernetes`
 
