@@ -20,6 +20,7 @@ Hi, I'm Luis Falla! 👋
 
 ## Connect with me
 <p align="center">
+	<a href="https://fernandofalla.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-%232563EB.svg?style=plastic&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 	<a href="mailto:f3rguz98@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>	
 	<a href="https://www.linkedin.com/in/luis-falla-18216822b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/fernandofalla"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>	
@@ -45,6 +46,7 @@ Hi, I'm Luis Falla! 👋
 	<a href="https://github.com/fernandofalla"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
 	<a href="https://github.com/fernandofalla"><img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4.svg?logo=dotnet&logoColor=white"></a>
 	<a href="https://github.com/fernandofalla"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+	<a href="https://github.com/fernandofalla"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -71,14 +73,17 @@ Hi, I'm Luis Falla! 👋
 <p align="center">
 	<a href="https://github.com/fernandofalla/StudyApp"><img alt="AdaptaMat" src="https://img.shields.io/badge/AdaptaMat-Thesis%20project-02569B?logo=flutter&logoColor=white"></a>
 	<a href="https://github.com/AlertHub/AlertHub"><img alt="AlertHub" src="https://img.shields.io/badge/AlertHub-Notifications%20system-339933?logo=node.js&logoColor=white"></a>
-	<a href="https://github.com/fernandofalla/OLC2_Proyecto1_201700700"><img alt="GoLight Interpreter" src="https://img.shields.io/badge/GoLight-Language%20interpreter-512BD4?logo=csharp&logoColor=white"></a>
+	<a href="https://github.com/fernandofalla/OLC2_Proyecto1_201700700"><img alt="GoLight Interpreter & Compiler" src="https://img.shields.io/badge/GoLight-Interpreter%20%26%20ARM64%20Compiler-512BD4?logo=csharp&logoColor=white"></a>
 	<a href="https://github.com/fernandofalla/SO1_Fase1_201700700"><img alt="Visualizador de recursos" src="https://img.shields.io/badge/Visualizador%20de%20recursos-System%20monitor-00599C?logo=c&logoColor=white"></a>
 	<a href="https://gitlab.com/fernandofalla/OLC1_VD24_201700700"><img alt="Fictitious language interpreter" src="https://img.shields.io/badge/Language%20Interpreter-JFlex%20%2B%20CUP-ED8B00?logo=openjdk&logoColor=white"></a>
 </p>
 
 - 🎓 **[AdaptaMat](https://github.com/fernandofalla/StudyApp)** — Adaptive learning mobile app (thesis project) using the IRT Rasch model to adjust exercise difficulty and detect recurring error patterns. `Flutter` `Dart` `SQLite` `BLoC`
 - 🔔 **[AlertHub](https://github.com/AlertHub/AlertHub)** — Centralized notification system (Email/SMS/Push) with Strategy, Factory and Observer patterns, real-time status updates via WebSockets. `Node.js` `Express` `React` `MySQL`
-- 💻 **[GoLight — Interpreter](https://github.com/fernandofalla/OLC2_Proyecto1_201700700)** — Interpreter for a custom Go-like language, ANTLR4 grammar, Visitor pattern execution in C#/.NET. `C#` `.NET 9` `ANTLR4` `React`
+- 💻 **[GoLight — Interpreter & Compiler](https://github.com/fernandofalla/OLC2_Proyecto1_201700700)** — Dual implementation for a custom Go-like programming language:
+  - **Interpreter:** AST evaluation via Visitor pattern in C#/.NET with interactive React web interface.
+  - **Compiler:** Three-address intermediate code generation and translation to native **ARM64 (AArch64) Assembly**, managing stack memory (`SP`), callee-saved registers (`x19-x28`), ASCII conversions, and Linux system calls (`SVC`). Executed and verified in an emulated/virtualized environment.
+  `C#` `.NET 9` `ANTLR4` `ARM64 Assembly` `React`
 - ☕ **[Fictitious Language Interpreter](https://gitlab.com/fernandofalla/OLC1_VD24_201700700)** — Lexical and syntax analyzer for a custom language, built in Java using JFlex for lexical analysis and CUP for parsing, with a Swing desktop UI. `Java` `JFlex` `CUP` `Swing`
 - 📊 **[Visualizador de recursos](https://github.com/fernandofalla/SO1_Fase1_201700700)** — Real-time CPU/RAM monitor: kernel modules in C, Go collector agent, Node.js API, React dashboard, orchestrated with Docker and Kubernetes. `C` `Go` `Node.js` `MySQL` `React` `Docker` `Kubernetes`
 
@@ -87,9 +92,7 @@ Hi, I'm Luis Falla! 👋
 <br/>
 <p align="center">
 	<a href="https://github.com/fernandofalla">
-	<img height="150" src="https://github-readme-stats.vercel.app/api?username=fernandofalla&theme=react&show_icons=true&include_all_commits=true&cache_seconds=86400" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofalla&theme=react&layout=compact&cache_seconds=86400" />
+		<img src="https://streak-stats.demolab.com?user=fernandofalla&theme=react&hide_border=false" alt="Fernando's GitHub Streak" />
 	</a>
-	<br/>
 </p>
 <br/>
