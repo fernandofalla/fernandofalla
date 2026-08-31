@@ -73,17 +73,16 @@ Hi, I'm Luis Falla! 👋
 <p align="center">
 	<a href="https://github.com/fernandofalla/StudyApp"><img alt="AdaptaMat" src="https://img.shields.io/badge/AdaptaMat-Thesis%20project-02569B?logo=flutter&logoColor=white"></a>
 	<a href="https://github.com/AlertHub/AlertHub"><img alt="AlertHub" src="https://img.shields.io/badge/AlertHub-Notifications%20system-339933?logo=node.js&logoColor=white"></a>
-	<a href="https://github.com/fernandofalla/OLC2_Proyecto1_201700700"><img alt="GoLight Interpreter & Compiler" src="https://img.shields.io/badge/GoLight-Interpreter%20%26%20ARM64%20Compiler-512BD4?logo=csharp&logoColor=white"></a>
+	<a href="https://github.com/fernandofalla/OLC2_Proyecto1_201700700"><img alt="GoLight Interpreter" src="https://img.shields.io/badge/GoLight-Interpreter-512BD4?logo=csharp&logoColor=white"></a>
+	<a href="https://github.com/fernandofalla/OLC2_Proyecto2_201700700"><img alt="GoLight Compiler" src="https://img.shields.io/badge/GoLight-ARM64%20Compiler-239120?logo=csharp&logoColor=white"></a>
 	<a href="https://github.com/fernandofalla/SO1_Fase1_201700700"><img alt="Visualizador de recursos" src="https://img.shields.io/badge/Visualizador%20de%20recursos-System%20monitor-00599C?logo=c&logoColor=white"></a>
 	<a href="https://gitlab.com/fernandofalla/OLC1_VD24_201700700"><img alt="Fictitious language interpreter" src="https://img.shields.io/badge/Language%20Interpreter-JFlex%20%2B%20CUP-ED8B00?logo=openjdk&logoColor=white"></a>
 </p>
 
 - 🎓 **[AdaptaMat](https://github.com/fernandofalla/StudyApp)** — Adaptive learning mobile app (thesis project) using the IRT Rasch model to adjust exercise difficulty and detect recurring error patterns. `Flutter` `Dart` `SQLite` `BLoC`
 - 🔔 **[AlertHub](https://github.com/AlertHub/AlertHub)** — Centralized notification system (Email/SMS/Push) with Strategy, Factory and Observer patterns, real-time status updates via WebSockets. `Node.js` `Express` `React` `MySQL`
-- 💻 **[GoLight — Interpreter & Compiler](https://github.com/fernandofalla/OLC2_Proyecto1_201700700)** — Dual implementation for a custom Go-like programming language:
-  - **Interpreter:** AST evaluation via Visitor pattern in C#/.NET with interactive React web interface.
-  - **Compiler:** Three-address intermediate code generation and translation to native **ARM64 (AArch64) Assembly**, managing stack memory (`SP`), callee-saved registers (`x19-x28`), ASCII conversions, and Linux system calls (`SVC`). Executed and verified in an emulated/virtualized environment.
-  `C#` `.NET 9` `ANTLR4` `ARM64 Assembly` `React`
+- 💻 **[GoLight — Interpreter](https://github.com/fernandofalla/OLC2_Proyecto1_201700700)** — Interpreter for a custom Go-like programming language, parsing grammar with ANTLR4 and executing via the Visitor pattern in C#/.NET with an interactive React frontend. `C#` `.NET 9` `ANTLR4` `React`
+- ⚙️ **[GoLight — ARM64 Compiler](https://github.com/fernandofalla/OLC2_Proyecto2_201700700)** — Native compiler translating Go-like source code into **ARM64 (AArch64) Assembly**, generating intermediate code, stack-allocated variables (`SP`), callee-saved registers (`x19-x28`), ASCII conversion routines, and Linux system calls (`SVC`) for virtualized/emulated execution. `C#` `.NET 9` `ANTLR4` `ARM64 Assembly` `React`
 - ☕ **[Fictitious Language Interpreter](https://gitlab.com/fernandofalla/OLC1_VD24_201700700)** — Lexical and syntax analyzer for a custom language, built in Java using JFlex for lexical analysis and CUP for parsing, with a Swing desktop UI. `Java` `JFlex` `CUP` `Swing`
 - 📊 **[Visualizador de recursos](https://github.com/fernandofalla/SO1_Fase1_201700700)** — Real-time CPU/RAM monitor: kernel modules in C, Go collector agent, Node.js API, React dashboard, orchestrated with Docker and Kubernetes. `C` `Go` `Node.js` `MySQL` `React` `Docker` `Kubernetes`
 
